@@ -7,3 +7,4 @@ psql university -f ./db/schema.sql
 psql university -f ./db/seed.sql
 psql university -f ./db/test.sql
 ```
+pull request for the lab2
