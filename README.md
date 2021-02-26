@@ -9,4 +9,4 @@ psql university -f ./db/test.sql
 ```
 
 ## POSTGRES
-[environnement de travail](Capture.png)
+[environnement de travail](Capture.PNG)
