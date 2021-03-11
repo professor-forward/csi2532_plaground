@@ -14,7 +14,7 @@ votre diagramme.
 ![Gabarit du diagram](assets/template_er.png)
 
 1) Les professeurs peuvent enseigner le même cours sur plusieurs semestres et seule la plus récente doit être enregistrée.
-![Diagramme 1](assets/sol/Capture1.PNG)
+![Diagramme 1](assets/sol/Capture1.png)
 
 2) Chaque professeur doit enseigner un cours.
 ![Diagramme 2](assets/sol/Capture2.PNG)
