@@ -42,3 +42,12 @@ Avec les diagrammes ER ci-dessus, modèlez un diagramme relationnel pour les sys
 
 Avec les diagrammes relationnel ci-dessus, écrivez un schéma SQL relationnel pour les systèmes.
 
+'''
+CREATE TABLE professors ( SSD integer, primary key (SSD) );
+
+CREATE TABLE cours ( courseid integer, primary key (courseid) );
+
+CREATE TABLE equipe ( equipeid integer, primary key (equipeid) );
+'''
+
+## SEED
