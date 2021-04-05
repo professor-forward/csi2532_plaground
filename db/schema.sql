@@ -1,16 +1,23 @@
-
-CREATE TABLE department (
-  dept_name varchar(20),
-  building varchar(15),
-  budget numeric(12,2) check (budget > 0),
-  primary key (dept_name)
+CREATE TABLE athlete(
+  id int NOT NULL,
+  name varchar(50) ,
+  gender char(1),
+  dob date,
+  PRIMARY KEY (id)
 );
 
-CREATE TABLE course (course_id    varchar(8),
-  title varchar(50),
-  dept_name varchar(20),
-  credits numeric(2,0) check (credits > 0),
-  primary key (course_id),
-  foreign key (dept_name) references department
-  on delete set null
+CREATE TABLE schema_migrations (
+migration varchar(255),
+migrated_at time,
+PRIMARY KEY (migration)
+);
+
+CREATE TABLE competition(
+        competitionid int NOT NULL,
+        name varchar(50),
+        venue varchar(50),
+        start_date_time DATETIME,
+        end_date_time DATETIME,
+        duration VARCHAR(50),
+        PRIMARY KEY (competitionid)
 );
