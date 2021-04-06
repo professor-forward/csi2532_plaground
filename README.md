@@ -6,7 +6,7 @@ Student name and number
 
 | **Name** | **Student Number** |
 | ---| --- |
-| Joseph Nikuzabo | 300115712 |
+| christian Tchoutang | 300101550 |
 
 <br />
 
@@ -36,10 +36,10 @@ Athletes masculins
 ```sql
 INSERT INTO athlete (id, firstName, lastName, dateOfBirth, sex, email)
 VALUES
-(1, 'Lebron', 'James', '1984-12-30', 'M', 'lebronjames@gmail.com'),
+(1, 'Christian', 'Tchoutang', '2000-12-30', 'M', 'christchou@gmail.com'),
 (2, 'Lionel', 'Messi', '1987-06-24', 'M', 'lionelmessi@gmail.com'),
-(3, 'Cristiano', 'Ronaldo', '1985-02-05', 'M', 'cristianoronaldo@gmail.com'),
-(4, 'John', 'Doe', '2001-03-05', 'M', 'JohnDoe@gmail.com'),
+(3, 'Cristiano', 'Ronaldo', '1985-02-05', 'M', 'cristianoronaldo@yahoo.com'),
+(4, 'Armand', 'Patrick', '1991-04-05', 'M', 'patrickarm@gmail.com'),
 (5, 'Lebron', 'James Jr', '2004-09-30', 'M', 'lebronjamesJr@gmail.com'),
 (6, 'Lionel', 'Messi Jr', '2002-06-24', 'M', 'lionelmessiJr@gmail.com'),
 (7, 'Cristiano', 'Ronaldo', '1985-02-05', 'M', 'cristianoronaldo@gmail.com'),
@@ -50,11 +50,11 @@ VALUES
 (12, 'John', 'Doe F', '2003-03-05', 'M', 'JohnDoeF@gmail.com'),
 (13, 'Lebrn', 'James', '1988-12-30', 'M', 'lebrnjames@gmail.com'),
 (14, 'Lione', 'Messi', '1992-06-24', 'M', 'lionemessi@gmail.com'),
-(15, 'Cristian', 'Ronaldo', '1987-02-05', 'M', 'cristianornaldo@gmail.com'),
-(16, 'Joh', 'Doe', '2001-03-05', 'M', 'JohDoe@gmail.com'),
+(15, 'raki', 'Tish', '1987-02-05', 'M', 'rakitish@gmail.com'),
+(16, 'John', 'Doe', '2001-03-05', 'M', 'JohnDoe@gmail.com'),
 (17, 'Leron', 'James', '1984-12-30', 'M', 'leronjames@gmail.com'),
-(18, 'Lionela', 'Messi', '1987-06-24', 'M', 'lionelamessi@gmail.com'),
-(19, 'Cristianola', 'Ronaldo', '1985-02-05', 'M', 'cristianolaronaldo@gmail.com'),
+(18, 'Dem', 'bele', '1987-06-24', 'M', 'dembele@yahoo.fr'),
+(19, 'ade', 'bayor', '1985-02-05', 'M', 'adebayor@hotmail.com'),
 (20, 'John', 'Do', '2001-03-05', 'M', 'JohnDo@gmail.com');
 ```
 
