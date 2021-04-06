@@ -6,7 +6,7 @@ Student name and number
 
 | **Name** | **Student Number** |
 | ---| --- |
-| Joseph Nikuzabo | 300115712 |
+| christian tchoutang | 300101550 |
 
 <br />
 
@@ -26,7 +26,7 @@ Student name and number
 
 <br />
 
-![](images/ER_diagram.png)
+![](ER_diagram.png)
 
 <br />
 
