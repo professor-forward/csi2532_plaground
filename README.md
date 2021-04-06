@@ -1,4 +1,4 @@
-# CSI 2532 - Lab 06
+# CSI 2532 - Lab 07
 
 Student name and number
 
