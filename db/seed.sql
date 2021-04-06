@@ -19,7 +19,7 @@ INSERT INTO schema_migrations (migration, migrated_at) VALUES
 
 INSERT INTO competition(competitionid,name,venue,start_date_time,end_date_time, duration)
 VALUES
-(2, 'Basket-ball','Montreal', '2021-02-10 11:43:00', '2021-02-10 12:43:00 ','1h'),
-(1, 'Soccer','Edmonton', '2021-02-10 10:43:00', '2021-02-10 15:43:00','5h'),
-(3, 'Badminton', 'Toronto', '2021-02-10 09:43:00','2021-02-10 14:43:00','5h'),
-(4, 'Tenis','Ottawa','2021-02-10 07:43:00','2021-02-10 11:43:00' ,'4h');
+(2, 'football','Montreal', '2021-03-10 11:43:00', '2021-02-10 12:43:00 ','2h'),
+(1, 'hockey','Edmonton', '2021-03-10 10:43:00', '2021-02-10 15:43:00','5h'),
+(3, 'basket', 'Toronto', '2021-03-10 09:43:00','2021-02-10 14:43:00','1h'),
+(4, 'soccer','Ottawa','2021-03-10 07:43:00','2021-02-10 11:43:00' ,'4h');
